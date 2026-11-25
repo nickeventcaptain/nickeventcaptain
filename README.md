@@ -23,4 +23,4 @@ Small, frequent releases with tests, a written decision record (ADRs) for every 
 
 > The Event Captain codebase is private because it's a commercial product, so most of my activity shows up as private contributions on the graph below.
 
-📍 Vancouver, BC
+📍 Vancouver, BC · [LinkedIn](https://www.linkedin.com/in/nicksteeves/)
